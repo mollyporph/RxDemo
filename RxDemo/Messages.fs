@@ -26,3 +26,11 @@ module Envelope =
         Envelop (Guid.NewGuid()) (DateTimeOffset.Now) item
 
 
+[<CLIMutable>]
+type Reservation = {
+    Date : DateTime
+    Name : string
+    Email : string
+    Quantity : int}
+
+
