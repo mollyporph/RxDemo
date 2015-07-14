@@ -13,7 +13,7 @@
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <TargetFSharpCoreVersion>4.4.0.0</TargetFSharpCoreVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Name>RxDemo.Api</Name>
+    <Name>RxDemo.WebHost</Name>
     <UseIISExpress>true</UseIISExpress>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -141,7 +141,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FsPluralSightRX\RxDemo.fsproj">
+    <ProjectReference Include="..\RxDemo\RxDemo.fsproj">
       <Name>RxDemo</Name>
       <Project>{69ec565d-577f-4623-b00b-c227614043b3}</Project>
       <Private>True</Private>

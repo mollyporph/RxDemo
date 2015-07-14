@@ -1,4 +1,4 @@
-﻿module FsPluralSightRX.HttpApi.Infrastructure
+﻿module RxDemo.HttpApi.Infrastructure
 
  
     open System.Web.Http

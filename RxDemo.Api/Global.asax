@@ -1,1 +1,0 @@
-<%@ Application Inherits="FsPluralSightRX.HttpApi.HttpHost.Global" %>

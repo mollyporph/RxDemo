@@ -1,8 +1,8 @@
-﻿namespace FsPluralSightRX.HttpApi.HttpHost
+﻿namespace RxDemo.HttpApi.HttpHost
 
 open System
 open System.Web.Http
-open FsPluralSightRX.HttpApi.Infrastructure
+open RxDemo.HttpApi.Infrastructure
 type HttpRouteDefaults = { Controller : string; Id : obj }
  
 type Global() =

@@ -7,7 +7,7 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RxDemo", "RxDemo\RxDemo.fsp
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RxDemo.Tests", "RxDemo.Tests\RxDemo.Tests.fsproj", "{379D28C2-A0D0-4FE9-8E53-AE81B2ABBE68}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RxDemo.Api", "RxDemo.Api\RxDemo.Api.fsproj", "{C605FDDA-C914-4FBC-BDF7-1683CB712771}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RxDemo.WebHost", "RxDemo.WebHost\RxDemo.WebHost.fsproj", "{C605FDDA-C914-4FBC-BDF7-1683CB712771}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

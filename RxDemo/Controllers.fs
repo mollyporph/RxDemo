@@ -1,4 +1,4 @@
-﻿namespace FsPluralSightRX.HttpApi
+﻿namespace RxDemo.HttpApi
 
 open System
 open System.Net
